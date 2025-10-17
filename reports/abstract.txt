@@ -1,0 +1,14 @@
+Abstract placeholder
+Smart Manufacturing Process Optimization Project
+
+This project focuses on predicting machine failures in a manufacturing environment using synthetic data. 
+The main objective is to optimize production efficiency, reduce downtime, and enhance predictive maintenance.
+
+Steps involved:
+1. Data Preparation – Generating synthetic manufacturing data
+2. Feature Engineering – Creating new features and scaling numeric data
+3. Model Training – Training an XGBoost classifier to predict failures
+4. Inference – Predicting failures on processed data
+5. Evaluation – Measuring model performance with accuracy, precision, recall, and F1-score
+
+The pipeline is modular, reproducible, and can be deployed to Azure ML for real-time monitoring.
