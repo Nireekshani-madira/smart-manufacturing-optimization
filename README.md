@@ -24,3 +24,4 @@ This project simulates a **Smart Manufacturing Process** by generating synthetic
 ```bash
 git clone https://github.com/your-username/smart-manufacturing-project.git
 cd smart-manufacturing-project
+
